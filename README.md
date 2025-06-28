@@ -1,2 +1,30 @@
 # -cagri-merkezi-kpi-raporu
 Power BI ile hazırlanan çağrı merkezi performans raporu.
+# Çağrı Merkezi KPI Raporu
+
+Bu projede Power BI kullanarak bir çağrı merkezine ait performans göstergeleri analiz edilmiştir.
+
+## 📊 Kullanılan KPI’lar:
+- Ortalama çağrı süresi
+-Talep Karşılama Süresi 
+- İlk temas çözüm oranı
+- Temsilci başına çözüm sayısı
+- Müşteri memnuniyeti (CSAT)
+-Şikayet Çözüm Süresi
+-Şikayet Olumsuz Kapatma Oranı 
+-Kalite skoru 
+-Yeniden İletişim Oran
+
+## 🔧 Kullanılan Teknolojiler
+- Power BI
+- Excel
+- Veri ön işleme (Power Query)
+
+## 🎯 Amaç
+Yönetime çağrı merkezi performansı hakkında görsel ve kolay anlaşılır bir dashboard sunmak.
+Temsilcilerin 3 aylık performanslarını değerlendirmek ve müşteri hizmetleri departmanındaki gelişmeleri gözlemlemek.
+
+## 📂 Dosyalar
+- `Cagri_Merkezi_KPI_Raporu.pbix`: Power BI raporu
+- `veri.xlsx`: Ham veri dosyası
+- `aciklama.md`: Ek açıklamalar
