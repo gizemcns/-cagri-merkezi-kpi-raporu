@@ -28,3 +28,35 @@ Temsilcilerin 3 aylık performanslarını değerlendirmek ve müşteri hizmetler
 - `Cagri_Merkezi_KPI_Raporu.pbix`: Power BI raporu
 - `veri.xlsx`: Ham veri dosyası
 - `aciklama.md`: Ek açıklamalar
+
+# -cagri-merkezi-kpi-report
+Call center performance report prepared with Power BI.
+# Call Center KPI Report
+
+In this project, the performance indicators of a call center were analyzed using Power BI.
+
+## 📊 KPIs used:
+- Average call duration
+- Request Response Time
+- First contact resolution rate
+- Number of resolutions per agent
+- Customer satisfaction (CSAT)
+- Complaint Resolution Time
+- Complaint Negative Closing Rate
+- Quality score
+- Repeat Contact Rate
+
+## 🔧 Technologies used
+- Power BI
+- Excel
+- Data preprocessing (Power Query)
+
+## 🎯 Purpose
+To provide management with a visual and understandable dashboard about call center performance.
+
+To evaluate the 3-month performance of agents and observe the developments in the customer service department.
+
+## 📂 Files
+- `Cagri_Merkezi_KPI_Report.pbix`: Power BI report
+- `veri.xlsx`: Raw data file
+- `explanation.md`: Additional explanations
